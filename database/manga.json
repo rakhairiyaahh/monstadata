@@ -1,43 +1,38 @@
-{
-  "manga_id": "manga_dragonslayer_001",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragonslayer",
-  "status": "Ongoing",
-  "author": "Jang So-rak",
-  "artist": "Kkulbeol",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Adventure",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 9.8,
-  "synopsis": "Eugene, pembunuh naga terhebat yang mengalahkan Raja Naga. Namun, kemenangan itu dibayar dengan hancurnya dunia dan kematian seluruh umat manusia. Di saat-saat terakhirnya, sebuah keajaiban membawanya kembali ke masa lalu. Kini, dengan ingatan dan kekuatan masa depannya, ia bersumpah untuk mengubah takdir dan menyelamatkan dunia dari kehancuran.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/covers/manga_dragonslayer_001_cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Kembalinya Sang Pahlawan",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch001/page_01.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch001/page_02.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch001/page_03.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch001/page_04.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch001/page_05.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Latihan Pertama",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch002/page_01.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch002/page_02.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch002/page_03.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/mangas/manga_dragonslayer_001/ch002/page_04.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Talent-Swallowing Magician",
+    "path": "Horor/Talent-Swallowing Magician.cbz",
+    "category": "Horor",
+    "url": "https://raw.githubusercontent.com/rakhairiyaahh/monstadata/main/Horor/Talent-Swallowing Magician.cbz"
+  },
+  {
+    "title": "The Academy’s Sashimi Sword Master",
+    "path": "Horor/The Academy’s Sashimi Sword Master.cbz",
+    "category": "Horor",
+    "url": "https://raw.githubusercontent.com/rakhairiyaahh/monstadata/main/Horor/The Academy’s Sashimi Sword Master.cbz"
+  },
+  {
+    "title": "The Demon King Overrun by Heroes",
+    "path": "Horor/The Demon King Overrun by Heroes.cbz",
+    "category": "Horor",
+    "url": "https://raw.githubusercontent.com/rakhairiyaahh/monstadata/main/Horor/The Demon King Overrun by Heroes.cbz"
+  },
+  {
+    "title": "Nano Machine",
+    "path": "Petualangan/Nano Machine.cbz",
+    "category": "Petualangan",
+    "url": "https://raw.githubusercontent.com/rakhairiyaahh/monstadata/main/Petualangan/Nano Machine.cbz"
+  },
+  {
+    "title": "Only I Have an EX-Grade Summon",
+    "path": "Petualangan/Only I Have an EX-Grade Summon.cbz",
+    "category": "Petualangan",
+    "url": "https://raw.githubusercontent.com/rakhairiyaahh/monstadata/main/Petualangan/Only I Have an EX-Grade Summon.cbz"
+  },
+  {
+    "title": "Pick Me Up, Infinite Gacha",
+    "path": "Petualangan/Pick Me Up, Infinite Gacha.cbz",
+    "category": "Petualangan",
+    "url": "https://raw.githubusercontent.com/rakhairiyaahh/monstadata/main/Petualangan/Pick Me Up, Infinite Gacha.cbz"
+  }
+]
